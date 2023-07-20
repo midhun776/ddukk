@@ -7,6 +7,6 @@ Welcome to the session on Git and GitHub.
 
 I am working as a mobile developer on TCS.
 
-Hi hola
+Hi hola, how are you
 
 Lets start the session.
