@@ -1,3 +1,6 @@
 Hello, Welcome to Git.
 
 By Rafeek!
+
+Hi Students,
+Welcome to the session on Git and GitHub.
